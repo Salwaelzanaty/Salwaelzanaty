@@ -1,5 +1,6 @@
-### Hi there 👋
-I’m currently learning flutter and ui/ux design
+### Hi my name is Salwa i'm 21 years old
+I’m a student in computer science and artificial intelligence
+I’m currently learning flutter and ui/ux design and locking for a training
 <!--
 **Salwaelzanaty/Salwaelzanaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
