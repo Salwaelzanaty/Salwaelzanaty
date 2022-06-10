@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I’m currently learning flutter and ui/ux design
 <!--
 **Salwaelzanaty/Salwaelzanaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
