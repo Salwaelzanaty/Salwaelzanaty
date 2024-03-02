@@ -1,8 +1,9 @@
-### Hi my name is Salwa i'm 21 years old
-I’m a student in computer science and artificial intelligence
+### Hi my name is Salwa i'm 23 years old
+i'm a fresh graduate who is passionate about continuous learning, discovery, and organizing things differently, I found my happiness and self-realization in dealing with data in its various forms,
+ I have skill in dealing with it, starting from designing the ERD to displaying it on interactive dashboards, passing through all its stages
+
 <br>
- currently I’m learning flutter and looking for a training
- to deal with real projects and get a good experience
+ currently I’m looking for a position 
 <!--
 **Salwaelzanaty/Salwaelzanaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
