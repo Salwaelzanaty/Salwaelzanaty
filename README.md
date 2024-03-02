@@ -3,7 +3,7 @@ i'm a fresh graduate who is passionate about continuous learning, discovery, and
  I have skill in dealing with it, starting from designing the ERD to displaying it on interactive dashboards, passing through all its stages
 
 <br>
- currently I’m looking for a position 
+
 <!--
 **Salwaelzanaty/Salwaelzanaty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
